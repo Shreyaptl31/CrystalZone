@@ -1,10 +1,8 @@
-
 function App() {
-
 
   return (
     <>
-      <h1>crystalzone</h1>
+      <h1>CrystalZone</h1>
     </>
   )
 }
