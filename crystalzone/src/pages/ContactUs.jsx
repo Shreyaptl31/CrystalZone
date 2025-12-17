@@ -32,8 +32,8 @@ const ContactUs = () => {
                 <Container>
                     {/* Heading */}
                     <div className="text-center mb-5">
-                        {/* <h2 className="contact-title">Contact Us</h2> */}
-                        <p className="contact-subtitle mt-5">
+                        <h2 className="contact-title mt-5">Contact Us</h2>
+                        <p className="contact-subtitle ">
                             We'd love to hear from you. Get in touch with CrystalZone!
                         </p>
                     </div>
