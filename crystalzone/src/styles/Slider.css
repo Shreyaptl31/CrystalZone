@@ -1,0 +1,76 @@
+.hero-slider {
+    margin-top: 85px;
+}
+
+.slider-img {
+    height: 85vh;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.carousel-caption {
+    bottom: 35%;
+}
+
+.carousel-caption h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #dbe3ff;
+    text-shadow: 0 0 15px rgba(150, 180, 255, 0.8);
+}
+
+.carousel-caption p {
+    font-size: 18px;
+    margin: 15px 0;
+    color: #cfd8ff;
+}
+
+/* Button */
+.slider-btn {
+    background: linear-gradient(135deg, #6a8dff, #9fb7ff);
+    border: none;
+    padding: 10px 28px;
+    border-radius: 30px;
+    font-weight: 600;
+    color: #0a1430;
+    box-shadow: 0 0 20px rgba(120, 160, 255, 0.7);
+}
+
+.slider-btn:hover {
+    transform: scale(1.08);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .slider-img {
+        height: 60vh;
+    }
+
+    .carousel-caption h1 {
+        font-size: 28px;
+    }
+}
+
+.hero-slider .carousel-item {
+    position: relative;
+}
+
+.hero-slider .carousel-item::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+
+    mix-blend-mode: multiply;
+    pointer-events: none;
+}
+
+.carousel-caption {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 20px 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+    bottom: 5%;
+}

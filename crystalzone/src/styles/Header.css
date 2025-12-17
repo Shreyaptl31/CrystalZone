@@ -1,0 +1,88 @@
+.crystal-navbar {
+    background: linear-gradient(135deg,
+            #040c24,
+            #040c24);
+    box-shadow: 0 6px 20px rgba(120, 160, 255, 0.2);
+    padding: 14px 0;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-wrapper {
+    background: radial-gradient(circle, #1f3b8a, #0b1535);
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow:
+        0 0 12px rgba(140, 180, 255, 0.7),
+        0 0 25px rgba(140, 180, 255, 0.4);
+}
+
+.logo {
+    width: 65px;
+    height: auto;
+}
+
+/* Brand text */
+.brand-text {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: #a8c1ff;
+}
+
+/* Nav links */
+.nav-links .nav-link {
+    color: #dbe3ff !important;
+    margin: 0 3px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.nav-links .nav-link:hover {
+    color: orange !important;
+}
+
+/* Dropdown styling */
+.nav-links .dropdown-menu {
+    background: #0f1c3f;
+    border: 1px solid rgba(150, 180, 255, 0.2);
+    box-shadow: 0 10px 25px rgba(120, 160, 255, 0.3);
+}
+
+.nav-links .dropdown-item {
+    color: #dbe3ff;
+    transition: 0.3s;
+}
+
+.nav-links .dropdown-item:hover {
+    background: rgba(150, 180, 255, 0.15);
+    color: orange;
+}
+
+/* Search bar */
+.search-form {
+    width: 220px;
+}
+
+.search-input {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(150, 180, 255, 0.3);
+    color: #e6ebff;
+    border-radius: 20px;
+    padding: 6px 15px;
+}
+
+.search-input::placeholder {
+    color: #b8c4ff;
+}
+
+.search-input:focus {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: #9fb7ff;
+    box-shadow: 0 0 10px rgba(150, 180, 255, 0.5);
+    color: #fff;
+}

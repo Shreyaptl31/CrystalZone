@@ -1,10 +1,16 @@
-function App() {
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Dashboard from "./pages/Dashboard";
+import ContactUs from "./pages/ContactUs";
 
+function App() {
   return (
-    <>
-      <h1>CrystalZone</h1>
-    </>
-  )
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Dashboard />} />
+        <Route path="/contact" element={<ContactUs />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;

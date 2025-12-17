@@ -1,0 +1,33 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+.info-card-gradient {
+    background: linear-gradient(135deg, #0f309377, #1b2f83);
+    padding: 60px 20px;
+    color: #fff;
+}
+
+.info-card-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.info-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
+
+.info-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
