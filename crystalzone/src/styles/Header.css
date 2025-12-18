@@ -86,3 +86,12 @@
     box-shadow: 0 0 10px rgba(150, 180, 255, 0.5);
     color: #fff;
 }
+
+
+#profile-dropdown {
+    margin-left: 10px;
+}
+
+#profile-dropdown::after {
+    display: none !important;
+}

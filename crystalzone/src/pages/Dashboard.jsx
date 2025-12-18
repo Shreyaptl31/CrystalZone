@@ -4,6 +4,7 @@ import Slider from '../Components/Slider'
 import Footer from '../layouts/Footer'
 import InfoCard from '../Components/InfoCard'
 import ContactUs from './ContactUs'
+import ProductCards from '../Components/ProductCards'
 
 const Dashboard = () => {
     return (
@@ -11,6 +12,7 @@ const Dashboard = () => {
             <Header />
             <Slider />
             <InfoCard />
+            <ProductCards />
             <Footer />
         </>
     )

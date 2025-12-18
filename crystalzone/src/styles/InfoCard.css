@@ -4,7 +4,7 @@ body {
 }
 
 .info-card-gradient {
-    background: linear-gradient(135deg, #0f309377, #1b2f83);
+    background: linear-gradient(135deg, #be86171f, #be86171f);
     padding: 60px 20px;
     color: #fff;
 }
@@ -15,8 +15,9 @@ body {
 }
 
 .info-card {
-    background: #fff;
-    border-radius: 12px;
+    background: #040c24;
+    color: #fff;
+    border-radius: 15px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

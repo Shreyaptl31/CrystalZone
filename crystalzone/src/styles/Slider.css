@@ -12,10 +12,10 @@
     bottom: 35%;
 }
 
-.carousel-caption h1 {
+.carousel-caption h2 {
     font-size: 48px;
     font-weight: 700;
-    color: #dbe3ff;
+    color: #040c24;
     text-shadow: 0 0 15px rgba(150, 180, 255, 0.8);
 }
 
