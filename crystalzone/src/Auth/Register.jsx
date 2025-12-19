@@ -5,19 +5,35 @@ import { Link, useNavigate } from "react-router-dom";
 import "../styles/Auth.css";
 
 const Register = () => {
-    const { register, handleSubmit } = useForm();
+    const { register, handleSubmit, reset } = useForm();
     const navigate = useNavigate();
 
     const onSubmit = (data) => {
-        const userData = {
+        const users = JSON.parse(localStorage.getItem("users")) || [];
+
+        const userExists = users.find(
+            (u) => u.email === data.email
+        );
+
+        if (userExists) {
+            alert("User already exists");
+            return;
+        }
+
+        const newUser = {
             ...data,
             role: "user",
+            id: Date.now(),
         };
 
-        localStorage.setItem("user", JSON.stringify(userData));
+        users.push(newUser);
+
+        localStorage.setItem("users", JSON.stringify(users));
+
         alert("Registration successful!");
         navigate("/login");
     };
+
 
     return (
         <Container className="auth-wrapper">

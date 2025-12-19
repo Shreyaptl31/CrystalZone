@@ -9,7 +9,7 @@ const Login = () => {
     const navigate = useNavigate();
 
     const onSubmit = (data) => {
-        // ADMIN LOGIN
+        // ✅ ADMIN LOGIN
         if (
             data.email === "admin@crystalzone.com" &&
             data.password === "admin123"
@@ -27,23 +27,24 @@ const Login = () => {
             return;
         }
 
-        // USER LOGIN
-        const storedUser = JSON.parse(localStorage.getItem("user"));
+        // ✅ USER LOGIN (FROM USERS ARRAY)
+        const users = JSON.parse(localStorage.getItem("users")) || [];
 
-        if (
-            storedUser &&
-            storedUser.email === data.email &&
-            storedUser.password === data.password
-        ) {
-            localStorage.setItem(
-                "authUser",
-                JSON.stringify(storedUser)
-            );
-            localStorage.setItem("isLoggedIn", true);
-            navigate("/");
-        } else {
+        const user = users.find(
+            (u) =>
+                u.email === data.email &&
+                u.password === data.password
+        );
+
+        if (!user) {
             alert("Invalid credentials");
+            return;
         }
+
+        localStorage.setItem("authUser", JSON.stringify(user));
+        localStorage.setItem("isLoggedIn", true);
+        navigate("/");
+
     };
 
     return (

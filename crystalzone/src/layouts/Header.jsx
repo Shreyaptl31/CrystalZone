@@ -5,7 +5,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import { Link, useNavigate } from "react-router-dom";
-import { FaUserCircle } from "react-icons/fa";
+import { FaUserCircle, FaShoppingCart } from "react-icons/fa"; // Added cart icon
 import "../styles/Header.css";
 import logo from "../assets/CrystalZone_logo.png";
 
@@ -22,6 +22,10 @@ const Header = () => {
         navigate("/login");
     };
 
+    const handleShopNow = () => {
+        navigate("/checkout"); // Navigate to checkout page
+    };
+
     return (
         <Navbar expand="lg" className="crystal-navbar" fixed="top">
             <Container>
@@ -36,7 +40,6 @@ const Header = () => {
 
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto nav-links align-items-lg-center">
-
                         <Nav.Link as={Link} to="/">Home</Nav.Link>
                         <Nav.Link as={Link} to="/about">About Us</Nav.Link>
 
@@ -70,8 +73,16 @@ const Header = () => {
                             />
                         </Form>
 
-                        {/* PROFILE DROPDOWN */}
+                        {/* SHOP NOW BUTTON */}
+                        <Button
+                            variant="success"
+                            className="me-3 d-flex align-items-center gap-1"
+                            onClick={handleShopNow}
+                        >
+                            <FaShoppingCart /> Shop Now
+                        </Button>
 
+                        {/* PROFILE DROPDOWN */}
                         <NavDropdown
                             title={
                                 <span className="d-flex align-items-center gap-2 profile-title">
@@ -83,17 +94,10 @@ const Header = () => {
                             align="end"
                             menuVariant="dark"
                         >
-
-
-
                             {!isLoggedIn ? (
                                 <>
-                                    <NavDropdown.Item as={Link} to="/login">
-                                        Login
-                                    </NavDropdown.Item>
-                                    <NavDropdown.Item as={Link} to="/register">
-                                        Register
-                                    </NavDropdown.Item>
+                                    <NavDropdown.Item as={Link} to="/login">Login</NavDropdown.Item>
+                                    <NavDropdown.Item as={Link} to="/register">Register</NavDropdown.Item>
                                 </>
                             ) : (
                                 <>
@@ -102,16 +106,11 @@ const Header = () => {
                                             Admin Dashboard
                                         </NavDropdown.Item>
                                     )}
-
                                     <NavDropdown.Divider />
-
-                                    <NavDropdown.Item onClick={handleLogout}>
-                                        Logout
-                                    </NavDropdown.Item>
+                                    <NavDropdown.Item onClick={handleLogout}>Logout</NavDropdown.Item>
                                 </>
                             )}
                         </NavDropdown>
-
                     </Nav>
                 </Navbar.Collapse>
             </Container>

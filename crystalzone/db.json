@@ -1,3 +1,45 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "af05",
+      "title": "bracelets ",
+      "price": "999",
+      "image": "https://crystaldivine.in/wp-content/uploads/2023/03/IMG-20250927-WA0411-1080x1080.jpg.webp",
+      "category": "bracelets"
+    },
+    {
+      "id": "594c",
+      "title": "pyramid",
+      "price": "1999",
+      "image": "https://crystaldivine.in/wp-content/uploads/2023/07/IMG-20250926-WA0149.jpg.webp",
+      "category": "pyramid",
+      "description": "Amethyst Crystal Pyramid"
+    },
+    {
+      "id": "b036",
+      "title": "Healing Crystal Tree",
+      "price": "349",
+      "image": "https://svastika.in/cdn/shop/files/Amethyst_Crystal_Tree_-_300_Beads_01_1.jpg?v=1749818563&width=1100",
+      "category": "tree",
+      "description": "Healing Crystal Tree for Home | Crystal Stone Tree"
+    },
+    {
+      "id": "2f6f",
+      "title": "Crystal pyramid",
+      "price": "297",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/4/VX/KK/DT/126137192/product-jpeg-500x500.jpg",
+      "category": "pyramid",
+      "description": "Crystal pyramid"
+    },
+    {
+      "id": "1856",
+      "title": " Crystal Pyramid",
+      "price": "449",
+      "image": "https://www.mypoojabox.in/cdn/shop/products/DSC_9883.jpg?v=1565265353",
+      "category": "pyramid",
+      "description": " Crystal Pyramid"
+    }
+  ],
+  "users": [],
+  "orders": []
 }

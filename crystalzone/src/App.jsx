@@ -5,6 +5,10 @@ import AboutUs from "./pages/Aboutus";
 import ContactUs from "./pages/ContactUs";
 import Login from "./Auth/Login";
 import Register from "./Auth/Register";
+import AdminRoute from "./routes/AdminRoute";
+import adminRoutes from "./AdminPanal/adminRoutes";
+import CategoryProducts from "./pages/CategoryProducts";
+import Checkout from "./pages/Checkout";
 
 function App() {
   return (
@@ -16,7 +20,26 @@ function App() {
         <Route path="/contact" element={<ContactUs />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/products/:category" element={<CategoryProducts />} />
+        <Route path="/checkout" element={<Checkout />} />
 
+        {/* ADMIN PANEL */}
+        <Route
+          path="/admin"
+          element={
+            <AdminRoute>
+              {adminRoutes.element}
+            </AdminRoute>
+          }
+        >
+          {adminRoutes.children.map((route) => (
+            <Route
+              key={route.path}
+              path={route.path}
+              element={route.element}
+            />
+          ))}
+        </Route>
       </Routes>
 
     </BrowserRouter>
