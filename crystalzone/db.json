@@ -38,8 +38,214 @@
       "image": "https://www.mypoojabox.in/cdn/shop/products/DSC_9883.jpg?v=1565265353",
       "category": "pyramid",
       "description": " Crystal Pyramid"
+    },
+    {
+      "id": "d04f",
+      "title": "natural crystal braclate",
+      "price": "950",
+      "image": "data:image/jpeg;base64,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",
+      "category": "bracelets",
+      "description": "natural crystal braclate"
+    },
+    {
+      "id": "6a2f",
+      "title": "Rose Quartz Bracelet",
+      "price": "800",
+      "image": "https://shubhanjalistore.com/wp-content/uploads/2023/03/Shubhanjali-Rose-Quartz-Heart-Beads-Bracelet-1-2.jpg",
+      "category": "bracelets",
+      "description": "Rose Quartz Bracelet"
+    },
+    {
+      "id": "b085",
+      "title": "Self love bracelet",
+      "price": "800",
+      "image": "https://www.thestylesalad.in/cdn/shop/files/CreativityBoost3_1200x1200.jpg?v=1725632735",
+      "category": "bracelets",
+      "description": "self love"
+    },
+    {
+      "id": "37e8",
+      "title": "Tiger eye crystal chip bracelet",
+      "price": "750",
+      "image": "https://spirital.in/wp-content/uploads/2023/09/Tiger-eye-bracelet-round_580x_20240609_8233041-600x600.jpg",
+      "category": "bracelets",
+      "description": "Tiger eye crystal chip bracelet\n"
+    },
+    {
+      "id": "1600",
+      "title": "stone gem bracelet",
+      "price": "700",
+      "image": "https://i.etsystatic.com/11397785/r/il/dcf5ed/5609250478/il_fullxfull.5609250478_c7zy.jpg",
+      "category": "bracelets",
+      "description": "stone gem"
+    },
+    {
+      "id": "b339",
+      "title": "Turquoise Gemstone Tree",
+      "price": "1399",
+      "image": "https://www.jiomart.com/images/product/original/rvhdv6h8nx/turquoise-gemstone-tree-money-bonsai-reiki-healing-crystals-tree-feng-shui-figurine-good-luck-chakra-balancing-crystal-tree-for-positive-energy-spiritual-decor-crystal-gifts-size-10-12-product-images-orvhdv6h8nx-p602704637-1-202306260415.jpg?im=Resize=(420,420)",
+      "category": "tree",
+      "description": " Turquoise Gemstone Tree"
+    },
+    {
+      "id": "b310",
+      "title": "Multicolor Stone Tree Crystal ",
+      "price": "1500",
+      "image": "https://shop.dharmsaar.com/cdn/shop/files/1_a60fd4dc-d0e7-41ee-9771-fcb97c082192.webp?v=1702556446",
+      "category": "tree",
+      "description": "Multicolor Stone Tree Crystal "
+    },
+    {
+      "id": "5d6e",
+      "title": "Amelia Rose Quartz Crystal tree",
+      "price": "1600",
+      "image": "https://images.woodenstreet.de/image/data/Muren/amelia-rose-quartz-crystal-tree-pink/MI-1.jpg",
+      "category": "tree",
+      "description": "Amelia Rose Quartz Crystal tree"
+    },
+    {
+      "id": "11a1",
+      "title": "Ritualistic Dome Crystal Chakra tree",
+      "price": "1799",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4kunTfHo6MQoSNOn_wqowO0pi162fQTy1Q&s",
+      "category": "tree",
+      "description": "Ritualistic Dome Crystal Chakra\n"
+    },
+    {
+      "id": "0097",
+      "title": "Amethyst Bonsai Crystal Tree",
+      "price": "1999",
+      "image": "https://mysticcrystals.in/wp-content/uploads/2024/04/Amethyst-7-scaled.jpg",
+      "category": "tree",
+      "description": "Amethyst Bonsai Crystal Tree"
+    },
+    {
+      "id": "6850",
+      "title": "Black Tourmaline Orgone Crystal pyramid",
+      "price": "1999",
+      "image": "https://gemglow.in/cdn/shop/files/4_461602e5-eb7c-45dc-9a7b-34eacf9e44c4.jpg?v=1710755215",
+      "category": "pyramid",
+      "description": "Black Tourmaline Orgone Crystal\n"
+    },
+    {
+      "id": "8c8f",
+      "title": "Lapis Lazuli Crystal Pyramid",
+      "price": "2499",
+      "image": "https://z380ss4m.cdn.imgeng.in/media/catalog/product/l/a/lapis-lazuli-pyramid.jpg",
+      "category": "pyramid",
+      "description": "Lapis Lazuli Crystal Pyramid"
+    },
+    {
+      "id": "f6f7",
+      "title": "Crystal Pyramids for Power & Energy",
+      "price": "2498",
+      "image": "https://www.earthinspiredgifts.com.au/cdn/shop/products/orgonite-pyramid-tourmaline-crystals-1024-Nov-best_380x@2x.jpg?v=1549764728",
+      "category": "pyramid",
+      "description": "Crystal Pyramids for Power & Energy\n"
+    },
+    {
+      "id": "0e5a",
+      "title": "HindCraft Assorted Crystals Tumble",
+      "price": "450",
+      "image": "https://m.media-amazon.com/images/I/81BqPtL1juS._AC_UF894,1000_QL80_.jpg",
+      "category": "tumbled",
+      "description": "HindCraft Assorted Crystals Tumble"
+    },
+    {
+      "id": "6852",
+      "title": "Transparent Crystal Premium",
+      "price": "500",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2024/2/389242020/ET/IH/BJ/95734739/product-jpeg-500x500.jpg",
+      "category": "tumbled",
+      "description": "Transparent Crystal Premium\n\n"
+    },
+    {
+      "id": "2052",
+      "title": "Green Moss Agate Crystal Tumbled Stones",
+      "price": "600",
+      "image": "https://cdn.ecommercedns.uk/files/3/239903/0/48506200/green-moss-agate-tumble-stones-2.jpg",
+      "category": "tumbled",
+      "description": "Green Moss Agate Crystal Tumbled Stones\n"
+    },
+    {
+      "id": "1cc5",
+      "title": "Golden stone",
+      "price": "700",
+      "image": "https://m.media-amazon.com/images/I/71sbcu41pdL.jpg",
+      "category": "tumbled",
+      "description": "Golden stone"
+    },
+    {
+      "id": "9257",
+      "title": "Rose Quartz Tumble Stones",
+      "price": "900",
+      "image": "https://sussexstones.co.uk/cdn/shop/files/RoseQuartzTumbleStone.jpg?v=1710780057&width=1946",
+      "category": "tumbled",
+      "description": "Rose Quartz Tumble Stones"
+    },
+    {
+      "id": "cc9a",
+      "title": "Mookaite Tumble Stone",
+      "price": "550",
+      "image": "https://www.crystalage.com/img/products/mookaite-tumble-stone-20-25mm_1.jpg",
+      "category": "tumbled",
+      "description": "Mookaite Tumble Stone"
+    },
+    {
+      "id": "a697",
+      "title": "Lapis Howlite Healing Crystal Tumble Stones",
+      "price": "599",
+      "image": "https://www.crystals-online.co.uk/cdn/shop/files/rn-image_picker_lib_temp_b0fe46d0-a4c7-4467-be95-aecef9e85193.jpg?v=1758211933&width=1954",
+      "category": "tumbled",
+      "description": "Lapis Howlite Healing Crystal Tumble Stones"
+    },
+    {
+      "id": "ad5d",
+      "title": "Mini Galaxy Crystal Ball Night Lamp",
+      "price": "499",
+      "image": "https://m-i1.fnp.com/images/pr/l/v20241024172427/galaxy-crystal-ball-night-lamp_1.jpg",
+      "category": "ball",
+      "description": "Mini Galaxy Crystal Ball Night Lamp"
+    },
+    {
+      "id": "70be",
+      "title": "Crystal Hanging Pendant Ball Small",
+      "price": "550",
+      "image": "https://www.homesake.in/cdn/shop/files/IH0A551.jpg?v=1752995808",
+      "category": "ball",
+      "description": "Crystal Hanging Pendant Ball Small"
+    },
+    {
+      "id": "37f4",
+      "title": "Crysta World Clear Crystal Ball",
+      "price": "600",
+      "image": "https://www.jiomart.com/images/product/original/rvgr4iqblz/crysta-world-clear-crystal-ball-for-chandelier-product-images-orvgr4iqblz-p594095616-0-202209261504.jpg?im=Resize=(420,420)",
+      "category": "ball",
+      "description": "Crysta World Clear Crystal Ball For\n"
+    },
+    {
+      "id": "2457",
+      "title": "Maligano Jasper Crystal Ball",
+      "price": "700",
+      "image": "https://www.shop.witchwayout.in/cdn/shop/files/IDP3963.jpg?v=1706538325&width=1946",
+      "category": "ball",
+      "description": "Maligano Jasper Crystal Ball"
+    },
+    {
+      "id": "1bef",
+      "title": "Magical Crystal Ball Craft",
+      "price": "650",
+      "image": "https://sugarspiceandglitter.com/wp-content/uploads/2018/08/easy-gypsy-crystal-ball-craft.jpg",
+      "category": "ball",
+      "description": "Magical Crystal Ball Craft"
+    },
+    {
+      "id": "0cfa",
+      "title": "Color Changing Mystic Crystal Ball ",
+      "price": "700",
+      "image": "https://e6e1f61e7426d79ba21b-18e6ae3c9c3b0bd9d3befbc3e5aa7c82.ssl.cf1.rackcdn.com/SNW80708%207%20Color%20Changing%20Mystic%20Crystal%20Ball%20Decoration.jpg",
+      "category": "ball",
+      "description": "Color Changing Mystic Crystal Ball "
     }
-  ],
-  "users": [],
-  "orders": []
+  ]
 }

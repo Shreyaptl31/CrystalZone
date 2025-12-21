@@ -45,33 +45,32 @@ const Header = () => {
 
                         {/* Crystals Dropdown */}
                         <NavDropdown title="Crystals" id="crystals-dropdown">
-                            <NavDropdown.Item as={Link} to="/products/bracelets">
-                                Crystal Bracelets
-                            </NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Tree</NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Pyramid</NavDropdown.Item>
-                            <NavDropdown.Item>Selenite Charging Plate</NavDropdown.Item>
-                            <NavDropdown.Item>Tumbled Crystal Stone</NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Ball</NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Bottle</NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Face Roller</NavDropdown.Item>
-                            <NavDropdown.Item>Himalayan Salt Lamp</NavDropdown.Item>
-                            <NavDropdown.Item>Pyrite Stone</NavDropdown.Item>
-                            <NavDropdown.Item>Zibu Coin</NavDropdown.Item>
-                            <NavDropdown.Item>Crystal Angel</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/bracelets">Crystal Bracelets</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/tree">Crystal Tree</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/pyramid">Crystal Pyramid</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/selenite">Selenite Charging Plate</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/tumbled">Tumbled Crystal Stone</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/ball">Crystal Ball</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/bottle">Crystal Bottle</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/roller">Crystal Face Roller</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/lamp">Himalayan Salt Lamp</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/Pyritestone">Pyrite Stone</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/zibucoin">Zibu Coin</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/crystalangel">Crystal Angel</NavDropdown.Item>
                         </NavDropdown>
 
                         <Nav.Link as={Link} to="/service">Our Services</Nav.Link>
                         <Nav.Link as={Link} to="/contact">Contact Us</Nav.Link>
+                        <Nav.Link as={Link} to="/my-orders">My Orders</Nav.Link>
 
                         {/* Search */}
-                        <Form className="search-form ms-md-3 me-3">
+                        {/* <Form className="search-form ms-md-3 me-3">
                             <Form.Control
                                 type="search"
                                 placeholder="Search crystals..."
                                 className="search-input"
                             />
-                        </Form>
+                        </Form> */}
 
                         {/* SHOP NOW BUTTON */}
                         <Button

@@ -67,3 +67,12 @@
         margin-bottom: 0.5rem;
     }
 }
+
+.footer-glow-line {
+    height: 2px;
+    background: linear-gradient(90deg,
+            transparent,
+            rgba(255, 170, 0, 0.8),
+            transparent);
+    margin-bottom: 40px;
+}

@@ -8,7 +8,10 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaPinterestP } from "react-icons/f
 
 const Footer = () => {
     return (
+
         <footer className="crystal-footer py-5">
+            <div className="footer-glow-line"></div>
+
             <Container>
                 <Row className="mb-4">
                     {/* Logo & About */}
