@@ -1,3 +1,8 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
 .contact-section {
     background: linear-gradient(135deg,
             #fdfcff,
@@ -59,7 +64,6 @@
     box-shadow: 0 0 0 3px rgba(240, 165, 0, 0.25);
 }
 
-/* ===== Button ===== */
 .contact-btn {
     background: linear-gradient(135deg, #f0a500, #ffd86b);
     border: none;
@@ -80,9 +84,4 @@
     font-size: 0.8rem;
     margin-top: 5px;
     display: block;
-}
-
-html,
-body {
-    overflow-x: hidden;
 }

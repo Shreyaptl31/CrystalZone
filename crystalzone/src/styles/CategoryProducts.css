@@ -91,35 +91,6 @@
     border-radius: 25px;
 }
 
-/* .category-page-wrapper {
-    margin-left: 260px;
-    padding-top: 100px;
-}
-
-.category-layout {
-    display: grid;
-    grid-template-columns: 260px 1fr;
-    padding-top: 90px;
-
-}
-
-.category-main {
-    padding: 0 30px;
-}
-
-
-@media (max-width: 992px) {
-    .category-layout {
-        grid-template-columns: 1fr;
-    }
-
-    .category-sidebar {
-        display: none;
-    }
-} */
-
-/* LAYOUT */
-/* PAGE WRAPPER */
 .category-page {
     background: #040c24;
     display: grid;
@@ -128,22 +99,16 @@
     min-height: calc(100vh - 90px);
 }
 
-
-/* SIDEBAR — NEVER SCROLLS */
 .category-sidebar {
 
     padding: 20px 16px;
     border-right: 1px solid #eee;
-
-    /* IMPORTANT */
     position: sticky;
     top: 0;
     height: 100%;
     overflow: hidden;
-    /* disables scrolling */
 }
 
-/* MAIN CONTENT — ONLY THIS SCROLLS */
 .category-main {
     padding: 0 30px 40px;
 

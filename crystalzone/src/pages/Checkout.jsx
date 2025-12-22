@@ -1,15 +1,6 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import {
-    Container,
-    Card,
-    Button,
-    Row,
-    Col,
-    Form,
-    Image,
-    Alert,
-} from "react-bootstrap";
+import { Container, Card, Button, Row, Col, Form, Image, Alert, } from "react-bootstrap";
 import Header from "../layouts/Header";
 import Footer from "../layouts/Footer";
 import "../styles/Checkout.css";
@@ -29,7 +20,7 @@ const Checkout = () => {
         pincode: "",
     });
 
-    /* 🔐 BLOCK CHECKOUT IF NOT LOGGED IN */
+    /* NOT LOGGED IN */
     if (!authUser) {
         return (
             <>
@@ -122,12 +113,12 @@ const Checkout = () => {
                     <div className="lock-card">
                         <div className="lock-icon">🛒</div>
                         <h3>Your cart is empty</h3>
-                        <p>Looks like you haven’t added anything yet.</p>
+                        <p>Looks like you haven't added anything yet.</p>
 
                         <Button
                             variant="primary"
                             size="lg"
-                            onClick={() => navigate("/shop")}
+                            onClick={() => navigate("/products/bracelets")}
                         >
                             Shop Now
                         </Button>

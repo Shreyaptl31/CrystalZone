@@ -3,9 +3,10 @@
     {
       "id": "af05",
       "title": "bracelets ",
-      "price": "999",
+      "price": "297",
       "image": "https://crystaldivine.in/wp-content/uploads/2023/03/IMG-20250927-WA0411-1080x1080.jpg.webp",
-      "category": "bracelets"
+      "category": "bracelets",
+      "description": "bracelets "
     },
     {
       "id": "594c",
@@ -246,6 +247,262 @@
       "image": "https://e6e1f61e7426d79ba21b-18e6ae3c9c3b0bd9d3befbc3e5aa7c82.ssl.cf1.rackcdn.com/SNW80708%207%20Color%20Changing%20Mystic%20Crystal%20Ball%20Decoration.jpg",
       "category": "ball",
       "description": "Color Changing Mystic Crystal Ball "
+    },
+    {
+      "id": "200c",
+      "title": "Glass Water Bottle With Rose Quartz Pencil",
+      "price": "1500",
+      "image": "https://up.yimg.com/ib/th/id/OIP.bjWlt7cWLuNJS-3XN-CU3QHaHa?pid=Api&rs=1&c=1&qlt=95&w=121&h=121",
+      "category": "bottle",
+      "description": "Glass Water Bottle With Rose Quartz Pencil"
+    },
+    {
+      "id": "f6fd",
+      "title": "Glass Water Bottle With Clear Quartz Pencil",
+      "price": "1600",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Ch2TAqFcxw8TXWVAOpUxRwHaHT?pid=Api&P=0&h=180",
+      "category": "bottle",
+      "description": "Glass Water Bottle With Clear Quartz Pencil"
+    },
+    {
+      "id": "1bad",
+      "title": "Glass Water Bottle With Black Obsidian Pencil",
+      "price": "1700",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.TZRLBUcyqCIirsLZWTFDBgHaNn?pid=Api&P=0&h=180",
+      "category": "bottle",
+      "description": "Glass Water Bottle With Black Obsidian Pencil"
+    },
+    {
+      "id": "9b9d",
+      "title": "Glass Water Bottle With Tiger Eye Pencil",
+      "price": "1800",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.anHlWtMMQDY_f74LWhHSNgHaHa?pid=Api&P=0&h=180",
+      "category": "bottle",
+      "description": "Glass Water Bottle With Tiger Eye Pencil"
+    },
+    {
+      "id": "8853",
+      "title": "Glass Water Bottle With Amethyst Pencil",
+      "price": "1900",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.rnJGmDSi4z3gC5H1mcLtggHaHX?pid=Api&P=0&h=180",
+      "category": "bottle",
+      "description": "Glass Water Bottle With Amethyst Pencil"
+    },
+    {
+      "id": "bb08",
+      "title": "Citrine Crystal Infused Water Bottle",
+      "price": "2000",
+      "image": "https://www.omprakashandsons.com/cdn/shop/products/Sit1_540x.jpg?v=1592406373",
+      "category": "bottle",
+      "description": "Citrine Crystal Infused Water Bottle"
+    },
+    {
+      "id": "6a6e",
+      "title": "Amethyst Crystal Bracelet",
+      "price": "499",
+      "image": "https://m.media-amazon.com/images/I/41tirt2IT5L._AC_UY1100_.jpg",
+      "category": "bracelets",
+      "description": "Amethyst Crystal Bracelet"
+    },
+    {
+      "id": "d5cb",
+      "title": "Natural Healing Gems",
+      "price": "499",
+      "image": "https://images.squarespace-cdn.com/content/v1/58c88bd2b8a79b83fe263ea0/35981492-06d1-4190-9937-28626d3a7f77/rose+quartz+bracelet+with+flower+11.jpg?format=1500w",
+      "category": "bracelets",
+      "description": "Natural Healing Gems"
+    },
+    {
+      "id": "e1eb",
+      "title": "Natural Rose Quartz",
+      "price": "399",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ae4a62b-932b-493c-86eb-94cb3fb3796c.__CR214,214,1071,1071_PT0_SX300_V1___.jpg",
+      "category": "bracelets",
+      "description": "The Cosmic Connect Natural Rose Quartz"
+    },
+    {
+      "id": "e9a0",
+      "title": "Crystal Healing Bracelet",
+      "price": "399",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/346075251/VF/VI/YK/40332871/crystal-healing-rose-quartz-bracelet.jpeg",
+      "category": "bracelets",
+      "description": "Crystal Healing Bracelet"
+    },
+    {
+      "id": "05ad",
+      "title": "Rudraksha & Crystal Bracelet",
+      "price": "399",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1380a53f-aed3-4f21-a58e-9d06043ae12d.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+      "category": "bracelets",
+      "description": "ShivTantra Five mukhi Rudraksha & Crystal Bracelet"
+    },
+    {
+      "id": "9145",
+      "title": "Amethyst Tiger Eye Crystal Bracelet",
+      "price": "249",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2025/6/519748951/BD/YE/FX/234197930/tiger-eye-crystal-bracelet-500x500.webp",
+      "category": "bracelets",
+      "description": "Amethyst Tiger Eye Crystal Bracelet"
+    },
+    {
+      "id": "c4d0",
+      "title": "Crystal Citrine Tree",
+      "price": "399",
+      "image": "https://m.media-amazon.com/images/I/61P4M+hcocL._AC_UF894,1000_QL80_.jpg",
+      "category": "tree",
+      "description": "Dynamic Crystal Product Citrine Tree"
+    },
+    {
+      "id": "d0b5",
+      "title": "Crystal Tree ",
+      "price": "399",
+      "image": "https://www.thekarmapledge.com/cdn/shop/files/3_1_fa8275ba-d4ce-41c6-b710-23b6931230e5.webp?height=742&pad_color=fff&v=1718773685&width=645",
+      "category": "tree",
+      "description": "Crystal Tree Of Life"
+    },
+    {
+      "id": "d115",
+      "title": "Rose Quartz Feng Shui Tree ",
+      "price": "749",
+      "image": "https://gemglow.in/cdn/shop/files/4-38_4e101326-cb8f-4769-bfef-46dd19ba5048.jpg?v=1716147509",
+      "category": "tree",
+      "description": "Rose Quartz Feng Shui Tree "
+    },
+    {
+      "id": "d220",
+      "title": "Crystal Tree ",
+      "price": "999",
+      "image": "https://www.nobroker.in/blog/wp-content/uploads/2024/05/seven-chakra-crystal-tree-vastu-1200x673.webp",
+      "category": "tree",
+      "description": "Unveiling the Power & Placement Secrets"
+    },
+    {
+      "id": "6353",
+      "title": "Seven Chakra Crystal Tree",
+      "price": "499",
+      "image": "https://www.flickkerbox.com/wp-content/uploads/2022/11/Vastu-Tree.jpg",
+      "category": "tree",
+      "description": "Seven Chakra Crystal Tree for Vastu "
+    },
+    {
+      "id": "bd81",
+      "title": "Black Tourmaline Evil Eye Tree",
+      "price": "399",
+      "image": "https://soulwise.in/cdn/shop/files/1_88d59cc9-59c7-44fa-962d-f8355e8bed01.jpg?v=1745922917",
+      "category": "tree",
+      "description": "Black Tourmaline Evil Eye Tree"
+    },
+    {
+      "id": "2916",
+      "title": "Labrdorite Crystal Pyramid",
+      "price": "849",
+      "image": "https://gemglow.in/cdn/shop/products/10_cd7a1624-23f9-4bf1-a615-c0fce0a84e92.jpg?v=1682673039&width=1946",
+      "category": "pyramid",
+      "description": "Labrdorite Crystal Pyramid"
+    },
+    {
+      "id": "edde",
+      "title": "Pyramid Crystals Stone",
+      "price": "999",
+      "image": "https://m.media-amazon.com/images/I/71D9KB4qhEL._AC_UF894,1000_QL80_.jpg",
+      "category": "pyramid",
+      "description": "Pyramid Crystals Stone"
+    },
+    {
+      "id": "1824",
+      "title": "Zurligi Orgone Pyramid",
+      "price": "998",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR30sxBYADhO_W330WSMWKXA1-ut-l5_40zt3NH87W4tegYoVvTyPdvSc9uuGiVoDy7zwk&usqp=CAU",
+      "category": "pyramid",
+      "description": "Zurligi Orgone Pyramid"
+    },
+    {
+      "id": "d618",
+      "title": "Crystal Pyramid",
+      "price": "999",
+      "image": "https://crystalswholesaleau.com/cdn/shop/files/lapis-lazuli-evil-eye-orgone-pyramid-wholesale-9599394_1024x1024.jpg?v=1761948590",
+      "category": "pyramid",
+      "description": "Crystal Pyramid"
+    },
+    {
+      "id": "3406",
+      "title": "Lapis Lazuli Pyramid",
+      "price": "499",
+      "image": "https://bodhgemandcrystals.com/cdn/shop/files/lapis-lazuli-pyramid-268129.jpg?v=1711243293",
+      "category": "pyramid",
+      "description": "Lapis Lazuli Pyramid"
+    },
+    {
+      "id": "7e87",
+      "title": "Original Crystals Pyramids",
+      "price": "899",
+      "image": "https://darbarcraft.com/cdn/shop/files/DSC_7443_1200x1200.jpg?v=1700828747",
+      "category": "pyramid",
+      "description": "Original Crystals Pyramids"
+    },
+    {
+      "id": "b873",
+      "title": "Crystal Divine Selenite Plate",
+      "price": "499",
+      "image": "https://m.media-amazon.com/images/I/61KVs81N4rL._AC_UF894,1000_QL80_.jpg",
+      "category": "selenite",
+      "description": "Crystal Divine Selenite Plate"
+    },
+    {
+      "id": "e594",
+      "title": "Seven Chakra Selenite Crystal Charging Plate",
+      "price": "498",
+      "image": "https://m.media-amazon.com/images/I/61-FB9XxU4L._AC_UF894,1000_QL80_.jpg",
+      "category": "selenite",
+      "description": "Seven Chakra Selenite Crystal Charging Plate "
+    },
+    {
+      "id": "7f0b",
+      "title": "Selenite Crystal Charging Plate",
+      "price": "699",
+      "image": "https://urjaghar.com/cdn/shop/files/1_c6ecea9f-34b0-4ced-bc66-864e5f5bebc2.png?v=1714829998",
+      "category": "selenite",
+      "description": "Selenite Crystal Charging Plate"
+    },
+    {
+      "id": "480f",
+      "title": "Crystal Divine Round Selenite Plate",
+      "price": "599",
+      "image": "https://m.media-amazon.com/images/I/618PqQc1UjL._AC_UF894,1000_QL80_.jpg",
+      "category": "selenite",
+      "description": "Crystal Divine Round Selenite Plate"
+    },
+    {
+      "id": "c8e3",
+      "title": "Crystal Selenite Charging Plate",
+      "price": "599",
+      "image": "https://images.meesho.com/images/products/457965916/dweic_512.webp?width=512",
+      "category": "selenite",
+      "description": "Crystal Selenite Charging Plate"
+    },
+    {
+      "id": "77a0",
+      "title": "ZUBY Crystals Product Selenite Plate",
+      "price": "499",
+      "image": "https://m.media-amazon.com/images/I/81vuD41-SrL.jpg",
+      "category": "selenite",
+      "description": "ZUBY Crystals Product Selenite Plate"
+    },
+    {
+      "id": "ce7d",
+      "title": "HindCraft Selenite Charging Plate",
+      "price": "499",
+      "image": "https://m.media-amazon.com/images/I/71BV2yPNK-L._AC_UF894,1000_QL80_.jpg",
+      "category": "selenite",
+      "description": "HindCraft Selenite Charging Plate"
+    },
+    {
+      "id": "8f4b",
+      "title": "Selenite Plate for Charging Crystals",
+      "price": "598",
+      "image": "https://shop.astromudra.com/cdn/shop/files/Selenite_Plate_Yantra.webp?v=1758974609",
+      "category": "selenite",
+      "description": "Selenite Plate for Charging Crystals"
     }
   ]
 }

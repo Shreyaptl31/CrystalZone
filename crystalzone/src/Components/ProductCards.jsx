@@ -5,7 +5,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "../styles/ProductCards.css";
 
-// Import images (replace with real ones)
+// Import images
 import braceletImg from "../assets/bracelet.jpg";
 import treeImg from "../assets/tree.jpg";
 import pyramidImg from "../assets/pyramid.jpg";

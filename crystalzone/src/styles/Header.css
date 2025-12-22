@@ -63,31 +63,6 @@
     color: orange;
 }
 
-/* Search bar */
-.search-form {
-    width: 220px;
-}
-
-.search-input {
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(150, 180, 255, 0.3);
-    color: #e6ebff;
-    border-radius: 20px;
-    padding: 6px 15px;
-}
-
-.search-input::placeholder {
-    color: #b8c4ff;
-}
-
-.search-input:focus {
-    background: rgba(255, 255, 255, 0.15);
-    border-color: #9fb7ff;
-    box-shadow: 0 0 10px rgba(150, 180, 255, 0.5);
-    color: #fff;
-}
-
-
 #profile-dropdown {
     margin-left: 10px;
 }

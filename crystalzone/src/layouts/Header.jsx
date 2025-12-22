@@ -1,13 +1,12 @@
 import Container from "react-bootstrap/Container";
+import logo from "../assets/CrystalZone_logo.png";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import { Link, useNavigate } from "react-router-dom";
 import { FaUserCircle, FaShoppingCart } from "react-icons/fa"; // Added cart icon
 import "../styles/Header.css";
-import logo from "../assets/CrystalZone_logo.png";
 
 const Header = () => {
     const navigate = useNavigate();
@@ -23,7 +22,7 @@ const Header = () => {
     };
 
     const handleShopNow = () => {
-        navigate("/checkout"); // Navigate to checkout page
+        navigate("/checkout");
     };
 
     return (
@@ -63,22 +62,13 @@ const Header = () => {
                         <Nav.Link as={Link} to="/contact">Contact Us</Nav.Link>
                         <Nav.Link as={Link} to="/my-orders">My Orders</Nav.Link>
 
-                        {/* Search */}
-                        {/* <Form className="search-form ms-md-3 me-3">
-                            <Form.Control
-                                type="search"
-                                placeholder="Search crystals..."
-                                className="search-input"
-                            />
-                        </Form> */}
-
                         {/* SHOP NOW BUTTON */}
                         <Button
                             variant="success"
                             className="me-3 d-flex align-items-center gap-1"
                             onClick={handleShopNow}
                         >
-                            <FaShoppingCart /> Shop Now
+                            <FaShoppingCart /> Add to Cart
                         </Button>
 
                         {/* PROFILE DROPDOWN */}

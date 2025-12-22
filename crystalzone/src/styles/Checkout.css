@@ -1,6 +1,5 @@
 .checkout-lock-screen {
     min-height: calc(100vh - 180px);
-    /* header + footer safe */
     display: flex;
     align-items: center;
     justify-content: center;

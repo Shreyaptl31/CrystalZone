@@ -94,7 +94,7 @@ const CategoryProducts = () => {
                                             View
                                         </Button>
                                         <Button size="sm" variant="success" onClick={() => handleShopNow(item)}>
-                                            Shop Now
+                                            Add to Cart
                                         </Button>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@ const CategoryProducts = () => {
                         <Modal.Footer>
                             <Button variant="secondary" onClick={() => setShowModal(false)}>Close</Button>
                             <Button variant="success" onClick={() => handleShopNow(selectedProduct)}>
-                                Buy Now
+                                Add to Cart
                             </Button>
                         </Modal.Footer>
                     </>

@@ -11,7 +11,7 @@ const AddProduct = () => {
         description: ""
     });
 
-    const [imageError, setImageError] = useState(false); // track invalid image
+    const [imageError, setImageError] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();

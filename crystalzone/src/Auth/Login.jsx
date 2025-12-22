@@ -9,7 +9,7 @@ const Login = () => {
     const navigate = useNavigate();
 
     const onSubmit = (data) => {
-        // ✅ ADMIN LOGIN
+        // ADMIN LOGIN
         if (
             data.email === "admin@crystalzone.com" &&
             data.password === "admin123"
@@ -27,7 +27,7 @@ const Login = () => {
             return;
         }
 
-        // ✅ USER LOGIN (FROM USERS ARRAY)
+        //  USER LOGIN
         const users = JSON.parse(localStorage.getItem("users")) || [];
 
         const user = users.find(

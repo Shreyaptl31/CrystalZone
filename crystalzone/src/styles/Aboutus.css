@@ -1,3 +1,8 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
 .about-section {
     background: linear-gradient(135deg, #fdfcff, #f4f8ff, #f6fff9);
     padding: 100px 20px;
@@ -39,7 +44,6 @@
     }
 }
 
-
 .about-values {
     margin-top: 50px;
 }
@@ -70,9 +74,4 @@
     .about-highlight {
         margin-top: 20px;
     }
-}
-
-html,
-body {
-    overflow-x: hidden;
 }

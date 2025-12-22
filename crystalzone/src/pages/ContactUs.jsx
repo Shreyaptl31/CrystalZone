@@ -12,12 +12,7 @@ import Header from "../layouts/Header";
 import Footer from "../layouts/Footer";
 
 const ContactUs = () => {
-    const {
-        register,
-        handleSubmit,
-        formState: { errors },
-        reset,
-    } = useForm();
+    const { register, handleSubmit, formState: { errors }, reset } = useForm();
 
     const onSubmit = (data) => {
         console.log("Contact Form Data:", data);

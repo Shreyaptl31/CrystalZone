@@ -1,4 +1,8 @@
-/* ===== Services Section ===== */
+html,
+body {
+    overflow-x: hidden;
+}
+
 .services-section {
     background: linear-gradient(135deg, #fdfcff, #f3f7ff, #f6fff9);
     padding: 90px 20px;
@@ -17,7 +21,6 @@
     margin: 0 auto;
 }
 
-/* ===== Service Rows ===== */
 .services-list {
     max-width: 850px;
     margin: 0 auto;
@@ -35,7 +38,6 @@
     border-bottom: none;
 }
 
-/* Icon Bubble */
 .service-icon {
     min-width: 60px;
     height: 60px;
@@ -48,7 +50,6 @@
     justify-content: center;
 }
 
-/* Content */
 .service-content h5 {
     font-weight: 600;
     margin-bottom: 6px;
@@ -61,7 +62,6 @@
     line-height: 1.6;
 }
 
-/* ===== Mobile Responsive ===== */
 @media (max-width: 576px) {
     .service-row {
         flex-direction: column;
@@ -72,10 +72,4 @@
     .service-content {
         text-align: center;
     }
-}
-
-/* Mobile fix */
-html,
-body {
-    overflow-x: hidden;
 }

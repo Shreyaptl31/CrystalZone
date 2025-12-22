@@ -58,7 +58,7 @@ const MyOrders = () => {
                         <Button
                             className="mt-3"
                             variant="success"
-                            onClick={() => navigate("/shop")}
+                            onClick={() => navigate("/products/bracelets")}
                         >
                             Shop Now
                         </Button>

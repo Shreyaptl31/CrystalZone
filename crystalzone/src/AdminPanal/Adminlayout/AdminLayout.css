@@ -1,14 +1,11 @@
 .admin-main-content {
     margin-left: 240px;
-    /* SAME AS SIDEBAR WIDTH */
     min-height: 100vh;
     padding: 24px;
     background-color: #f8f9fa;
     overflow-y: auto;
-    /* CONTENT scrolls */
 }
 
-/* MOBILE */
 @media (max-width: 991px) {
     .admin-main-content {
         margin-left: 0;

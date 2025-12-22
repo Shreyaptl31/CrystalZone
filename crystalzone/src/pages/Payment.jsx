@@ -23,7 +23,6 @@ const Payment = () => {
     let discount = 0;
     let message = "";
 
-    // Apply discount and free delivery rules
     if (subtotal > 3499) {
         discount = Math.round((subtotal + tax) * 0.2); // 20% discount
         delivery = 0; // free delivery
@@ -87,7 +86,7 @@ const Payment = () => {
                                     <div>
                                         <p><strong>Name:</strong> {address.name}</p>
                                         <p><strong>Phone:</strong> {address.phone}</p>
-                                        <p><strong>Address:</strong> {address.address}, {address.city}, {address.state} - {address.zip}</p>
+                                        <p><strong>Address:</strong> {address.address}, {address.city}, {address.state} , {address.zip}</p>
                                     </div>
                                 ) : (
                                     <p>No address found. Please go back and add your shipping address.</p>

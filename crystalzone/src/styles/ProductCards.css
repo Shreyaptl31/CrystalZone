@@ -1,3 +1,8 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
 .product-section {
     background: linear-gradient(135deg, #fdfcff, #f4f8ff);
     padding: 80px 20px;
@@ -43,10 +48,4 @@
 
 .product-card:hover h6 {
     color: white;
-}
-
-/* Mobile fix */
-html,
-body {
-    overflow-x: hidden;
 }
