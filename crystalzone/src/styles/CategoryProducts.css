@@ -124,11 +124,10 @@
     background: #040c24;
     display: grid;
     grid-template-columns: 220px 1fr;
-    height: calc(100vh - 90px);
-    /* header height */
     margin-top: 90px;
-    color: orange;
+    min-height: calc(100vh - 90px);
 }
+
 
 /* SIDEBAR — NEVER SCROLLS */
 .category-sidebar {
@@ -147,7 +146,7 @@
 /* MAIN CONTENT — ONLY THIS SCROLLS */
 .category-main {
     padding: 0 30px 40px;
-    overflow-y: auto;
+
 }
 
 
@@ -175,22 +174,7 @@
     color: #c59d5f;
 }
 
-/* MAIN CONTENT */
-/* .category-main {
-    padding: 0 30px 40px;
-    overflow-y: auto;
-} */
 
-/* RESPONSIVE */
-/* @media (max-width: 992px) {
-    .category-layout {
-        grid-template-columns: 1fr;
-    }
-
-    .category-sidebar {
-        display: none;
-    }
-} */
 
 @media (max-width: 992px) {
     .category-page {

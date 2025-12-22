@@ -57,7 +57,7 @@ const CategoryProducts = () => {
             <div className="category-page">
                 {/* SIDEBAR */}
                 <aside className="category-sidebar mt-5">
-                    <h5>Categories</h5>
+                    <h5 className="text-success">Categories</h5>
                     <ul>
                         {categories.map((cat) => (
                             <li key={cat.slug}>

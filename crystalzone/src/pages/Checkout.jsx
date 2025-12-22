@@ -12,7 +12,7 @@ import {
 } from "react-bootstrap";
 import Header from "../layouts/Header";
 import Footer from "../layouts/Footer";
-import "../styles/Checkout.css"; // 👈 add this
+import "../styles/Checkout.css";
 
 const Checkout = () => {
     const navigate = useNavigate();
@@ -117,16 +117,28 @@ const Checkout = () => {
         return (
             <>
                 <Header />
-                <Container className="text-center mt-5 pt-5">
-                    <h3>Your cart is empty 😒</h3>
-                    <Button onClick={() => navigate("/shop")}>
-                        Shop Now
-                    </Button>
-                </Container>
+
+                <div className="checkout-lock-screen mt-5">
+                    <div className="lock-card">
+                        <div className="lock-icon">🛒</div>
+                        <h3>Your cart is empty</h3>
+                        <p>Looks like you haven’t added anything yet.</p>
+
+                        <Button
+                            variant="primary"
+                            size="lg"
+                            onClick={() => navigate("/shop")}
+                        >
+                            Shop Now
+                        </Button>
+                    </div>
+                </div>
+
                 <Footer />
             </>
         );
     }
+
 
     return (
         <>
