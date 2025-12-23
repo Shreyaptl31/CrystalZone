@@ -5,16 +5,13 @@ import { Link, useNavigate } from "react-router-dom";
 import "../styles/Auth.css";
 
 const Register = () => {
-    const { register, handleSubmit, reset } = useForm();
+    const { register, handleSubmit } = useForm();
     const navigate = useNavigate();
 
     const onSubmit = (data) => {
         const users = JSON.parse(localStorage.getItem("users")) || [];
 
-        const userExists = users.find(
-            (u) => u.email === data.email
-        );
-
+        const userExists = users.find((u) => u.email === data.email);
         if (userExists) {
             alert("User already exists");
             return;
@@ -27,45 +24,57 @@ const Register = () => {
         };
 
         users.push(newUser);
-
         localStorage.setItem("users", JSON.stringify(users));
 
         alert("Registration successful!");
         navigate("/login");
     };
 
-
     return (
-        <Container className="auth-wrapper">
-            <div className="auth-card slide-up">
-                <h3>Create Account</h3>
+        <Container fluid className="auth-bg">
+            <div className="auth-glass-card">
+                <h2>Create your account</h2>
+                <p className="auth-subtitle">
+                    Join us and explore exclusive offers ✨
+                </p>
 
                 <Form onSubmit={handleSubmit(onSubmit)}>
-                    <Form.Control
-                        placeholder="Name"
-                        {...register("name", { required: true })}
-                    />
+                    <div className="input-group">
+                        <input
+                            type="text"
+                            required
+                            {...register("name")}
+                        />
+                        <label>Full Name</label>
+                    </div>
 
-                    <Form.Control
-                        type="email"
-                        placeholder="Email"
-                        {...register("email", { required: true })}
-                    />
+                    <div className="input-group">
+                        <input
+                            type="email"
+                            required
+                            {...register("email")}
+                        />
+                        <label>Email Address</label>
+                    </div>
 
-                    <Form.Control
-                        type="password"
-                        placeholder="Password"
-                        {...register("password", { required: true })}
-                    />
+                    <div className="input-group">
+                        <input
+                            type="password"
+                            required
+                            {...register("password")}
+                        />
+                        <label>Password</label>
+                    </div>
 
-                    <Button type="submit" className="auth-btn">
-                        Register
+                    <Button type="submit" className="gradient-btn">
+                        Create Account
                     </Button>
                 </Form>
 
-                <p className="switch-text">
-                    Already have an account? <Link to="/login">Login</Link>
-                </p>
+                <div className="auth-footer">
+                    <span>Already have an account?</span>
+                    <Link to="/login">Login</Link>
+                </div>
             </div>
         </Container>
     );

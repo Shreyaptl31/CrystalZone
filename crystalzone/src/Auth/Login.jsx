@@ -27,9 +27,8 @@ const Login = () => {
             return;
         }
 
-        //  USER LOGIN
+        // USER LOGIN
         const users = JSON.parse(localStorage.getItem("users")) || [];
-
         const user = users.find(
             (u) =>
                 u.email === data.email &&
@@ -44,35 +43,44 @@ const Login = () => {
         localStorage.setItem("authUser", JSON.stringify(user));
         localStorage.setItem("isLoggedIn", true);
         navigate("/");
-
     };
 
     return (
-        <Container className="auth-wrapper">
-            <div className="auth-card slide-up">
-                <h3>Login</h3>
+        <Container fluid className="auth-bg">
+            <div className="auth-glass-card">
+                <h2>Welcome back</h2>
+                <p className="auth-subtitle">
+                    Login to continue your journey ✨
+                </p>
 
                 <Form onSubmit={handleSubmit(onSubmit)}>
-                    <Form.Control
-                        type="email"
-                        placeholder="Email"
-                        {...register("email", { required: true })}
-                    />
+                    <div className="input-group">
+                        <input
+                            type="email"
+                            required
+                            {...register("email")}
+                        />
+                        <label>Email Address</label>
+                    </div>
 
-                    <Form.Control
-                        type="password"
-                        placeholder="Password"
-                        {...register("password", { required: true })}
-                    />
+                    <div className="input-group">
+                        <input
+                            type="password"
+                            required
+                            {...register("password")}
+                        />
+                        <label>Password</label>
+                    </div>
 
-                    <Button type="submit" className="auth-btn">
+                    <Button type="submit" className="gradient-btn">
                         Login
                     </Button>
                 </Form>
 
-                <p className="switch-text">
-                    New user? <Link to="/register">Register</Link>
-                </p>
+                <div className="auth-footer">
+                    <span>New here?</span>
+                    <Link to="/register">Create an account</Link>
+                </div>
             </div>
         </Container>
     );

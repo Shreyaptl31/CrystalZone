@@ -201,14 +201,6 @@
       "description": "Lapis Howlite Healing Crystal Tumble Stones"
     },
     {
-      "id": "ad5d",
-      "title": "Mini Galaxy Crystal Ball Night Lamp",
-      "price": "499",
-      "image": "https://m-i1.fnp.com/images/pr/l/v20241024172427/galaxy-crystal-ball-night-lamp_1.jpg",
-      "category": "ball",
-      "description": "Mini Galaxy Crystal Ball Night Lamp"
-    },
-    {
       "id": "70be",
       "title": "Crystal Hanging Pendant Ball Small",
       "price": "550",
@@ -249,44 +241,12 @@
       "description": "Color Changing Mystic Crystal Ball "
     },
     {
-      "id": "200c",
-      "title": "Glass Water Bottle With Rose Quartz Pencil",
-      "price": "1500",
-      "image": "https://up.yimg.com/ib/th/id/OIP.bjWlt7cWLuNJS-3XN-CU3QHaHa?pid=Api&rs=1&c=1&qlt=95&w=121&h=121",
-      "category": "bottle",
-      "description": "Glass Water Bottle With Rose Quartz Pencil"
-    },
-    {
-      "id": "f6fd",
-      "title": "Glass Water Bottle With Clear Quartz Pencil",
-      "price": "1600",
-      "image": "https://tse4.mm.bing.net/th/id/OIP.Ch2TAqFcxw8TXWVAOpUxRwHaHT?pid=Api&P=0&h=180",
-      "category": "bottle",
-      "description": "Glass Water Bottle With Clear Quartz Pencil"
-    },
-    {
-      "id": "1bad",
-      "title": "Glass Water Bottle With Black Obsidian Pencil",
-      "price": "1700",
-      "image": "https://tse4.mm.bing.net/th/id/OIP.TZRLBUcyqCIirsLZWTFDBgHaNn?pid=Api&P=0&h=180",
-      "category": "bottle",
-      "description": "Glass Water Bottle With Black Obsidian Pencil"
-    },
-    {
       "id": "9b9d",
       "title": "Glass Water Bottle With Tiger Eye Pencil",
       "price": "1800",
       "image": "https://tse2.mm.bing.net/th/id/OIP.anHlWtMMQDY_f74LWhHSNgHaHa?pid=Api&P=0&h=180",
       "category": "bottle",
       "description": "Glass Water Bottle With Tiger Eye Pencil"
-    },
-    {
-      "id": "8853",
-      "title": "Glass Water Bottle With Amethyst Pencil",
-      "price": "1900",
-      "image": "https://tse1.mm.bing.net/th/id/OIP.rnJGmDSi4z3gC5H1mcLtggHaHX?pid=Api&P=0&h=180",
-      "category": "bottle",
-      "description": "Glass Water Bottle With Amethyst Pencil"
     },
     {
       "id": "bb08",
@@ -503,6 +463,382 @@
       "image": "https://shop.astromudra.com/cdn/shop/files/Selenite_Plate_Yantra.webp?v=1758974609",
       "category": "selenite",
       "description": "Selenite Plate for Charging Crystals"
+    },
+    {
+      "id": "a1ea",
+      "title": "Charoite Crystals",
+      "price": "497",
+      "image": "https://www.moor-crystals.co.uk/cdn/shop/products/Charoite-1_38ee1194-5862-48c8-b1b1-4375907c6a98.jpg?v=1619006960",
+      "category": "tumbled",
+      "description": "Charoite Crystals - Rare Crystals"
+    },
+    {
+      "id": "a3ec",
+      "title": "Black Tourmaline Crystal Tumbled Stones",
+      "price": "599",
+      "image": "https://cdn.ecommercedns.uk/files/3/239903/0/48047210/black-tourmaline-tumble-4_large.jpg",
+      "category": "tumbled",
+      "description": "Black Tourmaline Crystal Tumbled Stones"
+    },
+    {
+      "id": "fee4",
+      "title": " 3D Crystal Ball Night Light ",
+      "price": "399",
+      "image": "https://www.jaipurcraftonline.com/cdn/shop/files/71f7ghyDFjL._SL1500.jpg",
+      "category": "ball",
+      "description": "Webelkart Antique Big Moon Fairy 3D Crystal Ball Night Light with Wooden Base"
+    },
+    {
+      "id": "07ab",
+      "title": "3D Galaxy Crystal Ball Night Light  (Moon Climb)",
+      "price": "397",
+      "image": "https://xergy.in/cdn/shop/files/stair.jpg?v=1720615613",
+      "category": "ball",
+      "description": "3D Galaxy Crystal Ball Night Light With Wooden Base (Moon Climb)"
+    },
+    {
+      "id": "81f2",
+      "title": "Mini Galaxy Crystal Ball Night Lamp",
+      "price": "399",
+      "image": "https://m-i1.fnp.com/images/pr/l/v20241024172427/galaxy-crystal-ball-night-lamp_1.jpg",
+      "category": "ball",
+      "description": "Mini Galaxy Crystal Ball Night Lamp"
+    },
+    {
+      "id": "8e46",
+      "title": "Crystal Ball 3D Inner Carved",
+      "price": "358",
+      "image": "https://m.media-amazon.com/images/I/61WtanLON0L.jpg",
+      "category": "ball",
+      "description": "Crystal Ball 3D Inner Carved Small Crystal Ball "
+    },
+    {
+      "id": "45f9",
+      "title": "3D Galaxy Crystal Ball Night Light ( Princess Elsa )",
+      "price": "399",
+      "image": "https://xergy.in/cdn/shop/files/CRYSTAL_BALL_02_42bf01e3-8adb-46ef-a136-2d207a7379eb.jpg?v=1723893455&width=1100",
+      "category": "ball",
+      "description": "3D Galaxy Crystal Ball Night Light With Wooden Base ( Princess Elsa )"
+    },
+    {
+      "id": "826d",
+      "title": "Flamingo 3D Crystal Ball Night Light Glass Lamp",
+      "price": "797",
+      "image": "https://images-static.nykaa.com/media/catalog/product/d/9/d9d3579LBYLLDLO1124_1.jpg?tr=w-500",
+      "category": "ball",
+      "description": "Awestuffs Flamingo 3D Crystal Ball Night Light Glass Lamp"
+    },
+    {
+      "id": "0407",
+      "title": "3D Crystal Ball Night Light",
+      "price": "499",
+      "image": "https://img.clevup.in/415001/SKU-0013_0-1734363087556.jpg?width=600&format=webp",
+      "category": "ball",
+      "description": "3D Elk Crystal Ball Night Light"
+    },
+    {
+      "id": "94ba",
+      "title": "Amethyst Crystal Bottle",
+      "price": "2998",
+      "image": "https://www.mypoojabox.in/cdn/shop/products/DSC07611copy-2.jpg?v=1672716891",
+      "category": "bottle",
+      "description": "Amethyst Crystal Bottle"
+    },
+    {
+      "id": "d093",
+      "title": "Crystal Water Bottle",
+      "price": "399",
+      "image": "https://shubhanjalistore.com/wp-content/uploads/2022/12/Shubhanjali-Wealth-Jar-1-370x475.jpg",
+      "category": "bottle",
+      "description": "Crystal Water Bottles for Wellness "
+    },
+    {
+      "id": "8d8e",
+      "title": "Gemstone Bottle",
+      "price": "448",
+      "image": "https://i.etsystatic.com/28739613/r/il/2ce887/3571646220/il_1588xN.3571646220_ln1u.jpg",
+      "category": "bottle",
+      "description": "Tree Of Life Gemstone Bottle, Crystal wishing bottle"
+    },
+    {
+      "id": "5ff2",
+      "title": "Crystal Wish Jars",
+      "price": "399",
+      "image": "https://i.etsystatic.com/34479918/r/il/e29106/4215579880/il_1588xN.4215579880_khf0.jpg",
+      "category": "bottle",
+      "description": "Crystal Wish Jars"
+    },
+    {
+      "id": "05a4",
+      "title": "Crystal Miracle Bottle",
+      "price": "1700",
+      "image": "https://themiraclehub.in/upload/product_img2/62eb709bddb4a.jpg",
+      "category": "bottle",
+      "description": "Clear Quartz Crystal Miracle Bottle"
+    },
+    {
+      "id": "e18f",
+      "title": "Crystal Chips Water Bottles Gems Crystal",
+      "price": "1449",
+      "image": "https://m.media-amazon.com/images/I/71NjXLXrBsL._AC_UF1000,1000_QL80_.jpg",
+      "category": "bottle",
+      "description": "Crystal Chips Water Bottles Gems Crystal Amethyst Water Bottle For Healing"
+    },
+    {
+      "id": "3384",
+      "title": "Zen Crystals ZEN Green Aventurine Face Roller",
+      "price": "999",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1L24JL2P-fO-SDUl0qSXTJxi3TbXClFItGjovYWo8k7LXVlOqwRByXKHQBPYP0T9Ond6LIvNM7PtnwG7XhAq7JHOLttiiFRRmI7zardls",
+      "category": "roller",
+      "description": "Zen Crystals ZEN Green Aventurine Face Roller"
+    },
+    {
+      "id": "ff8e",
+      "title": "Natural Healing Crystal Stone Massage Roller",
+      "price": "899",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOVDhKVg86jzmy0dUIzSNaNalPokS_3TfJNhApn0tRgeTKbja9SodEUt7r_qW1JiHojjrw1e5D608Jx_IE--8aGbSiTdmbZe6e6lyeQTU3-ViGJ7ymof5l0Q",
+      "category": "roller",
+      "description": "Natural Healing Crystal Stone Massage Roller"
+    },
+    {
+      "id": "8d44",
+      "title": "Rose Quartz Face Roller with Gua Sha",
+      "price": "748",
+      "image": "https://www.satvikworld.com/cdn/shop/products/top-view-gua-sha-face-roller-arrangement_720x.jpg?v=1740205102",
+      "category": "roller",
+      "description": "Rose Quartz Face Roller with Gua Sha"
+    },
+    {
+      "id": "4db7",
+      "title": "Jade Roller & Gua Sha, Face Roller",
+      "price": "699",
+      "image": "https://m.media-amazon.com/images/I/711NA1Wl9wL._AC_UF350,350_QL80_.jpg",
+      "category": "roller",
+      "description": "Jade Roller & Gua Sha, Face Roller, Facial Beauty Roller Skin Care Tools"
+    },
+    {
+      "id": "7a0f",
+      "title": "Crystal facial roller",
+      "price": "649",
+      "image": "https://cdn.faire.com/fastly/2b2b9f20d78e610623514ff6336f45f6c011569faf9ed99c9132c5499614d780.jpeg?bg-color=FFFFFF&dpr=1&fit=crop&format=jpg&height=720&width=720",
+      "category": "roller",
+      "description": "Crystal facial roller"
+    },
+    {
+      "id": "66d4",
+      "title": "Crystal Face Rollers",
+      "price": "899",
+      "image": "https://s1.r29static.com/bin/entry/aa2/0,0,2000,2400/720x864,85/2013863/image.webp",
+      "category": "roller",
+      "description": "Crystal Face Rollers | Amethyst & Rose Quartz"
+    },
+    {
+      "id": "c4c1",
+      "title": "Salt Lamp Original Pink Crystal Table Lamp",
+      "price": "797",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/table-lamp/m/o/n/natural-himalayan-rock-salt-lamp-original-pink-crystal-lampt101-original-imagugymzghpfvsy.jpeg?q=90",
+      "category": "lamp",
+      "description": "Natural Himalayan Rock Salt Lamp Original Pink Crystal Table Lamp"
+    },
+    {
+      "id": "2eac",
+      "title": "Big salt lamp",
+      "price": "699",
+      "image": "https://www.thelamplife.co.uk/cdn/shop/products/AdobeStock_195382667_1024x1024@2x.jpg?v=1699022931",
+      "category": "lamp",
+      "description": "Big salt lamp"
+    },
+    {
+      "id": "87de",
+      "title": "Sphere Himalayan Salt Lamp",
+      "price": "2999",
+      "image": "https://shubhanjalistore.com/wp-content/uploads/2022/10/Shubhanjali-Sphere-Himalayan-Salt-Lamp-1.jpg",
+      "category": "lamp",
+      "description": "Sphere Himalayan Salt Lamp"
+    },
+    {
+      "id": "7259",
+      "title": "imalayan Salt Pyramid Shape Lamp",
+      "price": "2999",
+      "image": "https://m.media-amazon.com/images/I/51L5zMcolKL._AC_UF894,1000_QL80_.jpg",
+      "category": "lamp",
+      "description": "imalayan Salt Pyramid Shape Lamp | Crystal Rock Salt Lamp Hand Crafted Wooden Base Triangle Table Lamp"
+    },
+    {
+      "id": "f13e",
+      "title": "Himalayan Rock Salt Lamp ",
+      "price": "899",
+      "image": "https://m.media-amazon.com/images/I/51wy5ocwQ7L._AC_UF1000,1000_QL80_.jpg",
+      "category": "lamp",
+      "description": "Himalayan Rock Salt Lamp | emits Warm Glow for Relaxation and Purification"
+    },
+    {
+      "id": "e26f",
+      "title": "Beautiful salt lamp with blue stones glow and smoke",
+      "price": "3599",
+      "image": "https://img.freepik.com/premium-photo/beautiful-salt-lamp-with-blue-stones-glow-smoke_763713-1400.jpg",
+      "category": "lamp",
+      "description": "Beautiful salt lamp with blue stones glow and smoke"
+    },
+    {
+      "id": "a5b1",
+      "title": "Himalayan USB Salt Colour Changing Pyramid Lamp",
+      "price": "3999",
+      "image": "https://m.media-amazon.com/images/I/71ie3ZA5AhL.jpg",
+      "category": "lamp",
+      "description": "Himalayan USB Salt Colour Changing Pyramid Lamp Therapeutic Lighting Unique Pyramid Design Handcrafted Salt Crystal Meditation Lamp"
+    },
+    {
+      "id": "557b",
+      "title": "Salacia Himalayan Color Changing Salt Lamp",
+      "price": "3499",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4621ncdcO2vGl_T9v-3KyiPnSyhmQIZaNK3FIv_dmuRiiuqugM2MvGDMtT2GspP0qXM&usqp=CAU",
+      "category": "lamp",
+      "description": "Salacia Himalayan Color Changing Salt Lamp"
+    },
+    {
+      "id": "216b",
+      "title": "Amethyst Zibu Symbol Coin",
+      "price": "449",
+      "image": "https://www.pandit.com/cdn/shop/files/amethyst_zibu_symbol_coin_main_product_image_303.webp?v=1732517533&width=1500",
+      "category": "zibucoin",
+      "description": "Amethyst Zibu Symbol Coin"
+    },
+    {
+      "id": "c820",
+      "title": "Crystal Products Green Aventurine Zibu Symbol Stone",
+      "price": "399",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfkznR7mTBXr05Rm1QYtlHMKaCSKK7MVwLgk967k_wPm55LljBLYnx6PePf3WZT4IG84&usqp=CAU",
+      "category": "zibucoin",
+      "description": "Crystal Products Green Aventurine Zibu Symbol Stone"
+    },
+    {
+      "id": "2ec2",
+      "title": "Green Jade Zibu Symbol Coin",
+      "price": "299",
+      "image": "https://www.solavaworld.com/cdn/shop/files/certified-zibu-coin_medium.jpg?v=1690024915",
+      "category": "zibucoin",
+      "description": "Green Jade Zibu Symbol Coin"
+    },
+    {
+      "id": "8960",
+      "title": "Amethyst Zibu Symbol Coin ",
+      "price": "498",
+      "image": "https://www.pandit.com/cdn/shop/files/amethyst_zibu_symbol_coin_main_product_image_304.webp?v=1732517533&width=1500",
+      "category": "zibucoin",
+      "description": "Amethyst Zibu Symbol Coin - Spiritual Protection"
+    },
+    {
+      "id": "4924",
+      "title": "AMETHYST ZIBU Coin",
+      "price": "399",
+      "image": "https://m.media-amazon.com/images/I/61HDOgit0rL._AC_UY1100_.jpg",
+      "category": "zibucoin",
+      "description": "GOLDEN QUARTZ - THE CRYSTAL HUB - AMETHYST ZIBU Coin"
+    },
+    {
+      "id": "ce3a",
+      "title": "Original Rose Quartz Stone Zibu Coin",
+      "price": "299",
+      "image": "https://m.media-amazon.com/images/I/81ssYRx94oL._AC_UF350,350_QL80_.jpg",
+      "category": "zibucoin",
+      "description": "Original Rose Quartz Stone Zibu Coin"
+    },
+    {
+      "id": "2f0e",
+      "title": "Rose Quartz Zibu Coin",
+      "price": "299",
+      "image": "https://static.wixstatic.com/media/a26a87_5fa9759307484cf39eef8a11493a27e3~mv2.jpg/v1/fill/w_480,h_640,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a26a87_5fa9759307484cf39eef8a11493a27e3~mv2.jpg",
+      "category": "zibucoin",
+      "description": "Rose Quartz Zibu Coin for Unconditional Love"
+    },
+    {
+      "id": "6efb",
+      "title": "Selenite Zibu Coin",
+      "price": "298",
+      "image": "https://static.wixstatic.com/media/a26a87_d55da1030f074965a84a07dca001517c~mv2.jpg/v1/fill/w_750,h_1001,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a26a87_d55da1030f074965a84a07dca001517c~mv2.jpg",
+      "category": "zibucoin",
+      "description": "Selenite Zibu Coin for Healing"
+    },
+    {
+      "id": "3c15",
+      "title": "Amethyst Crystal Guardian Angel",
+      "price": "1299",
+      "image": "https://www.mypoojabox.in/cdn/shop/products/DSC_0264_900x.jpg?v=1668507659",
+      "category": "crystalangel",
+      "description": "Amethyst Crystal Guardian Angel"
+    },
+    {
+      "id": "0dd7",
+      "title": "Crystal Angels",
+      "price": "998",
+      "image": "https://www.ifshe.co.uk/cdn/shop/files/pink-opal-angel_2048x.webp?v=1752976722",
+      "category": "crystalangel",
+      "description": "Crystal Angels | Healing Gemstone"
+    },
+    {
+      "id": "9dc1",
+      "title": "Green Aventurine Angel",
+      "price": "896",
+      "image": "https://mysticcrystals.in/wp-content/uploads/2024/04/Green-Aventurine-dark-scaled.jpg?v=1733223885",
+      "category": "crystalangel",
+      "description": "Green Aventurine Ange"
+    },
+    {
+      "id": "bbb1",
+      "title": "LONGWIN Crystal Angel Figurine",
+      "price": "899",
+      "image": "https://m.media-amazon.com/images/I/71XhZIPo3vL._AC_UF350,350_QL80_.jpg",
+      "category": "crystalangel",
+      "description": "LONGWIN Crystal Angel Figurine"
+    },
+    {
+      "id": "d46d",
+      "title": "Crystal Angel",
+      "price": "899",
+      "image": "https://asset.swarovski.com/images/$size_1000/t_swa103/b_rgb:ffffff,c_scale,dpr_auto,f_auto,w_auto/5657008_PNG/holiday-magic-angel-ornament-swarovski-5657008.png",
+      "category": "crystalangel",
+      "description": "Crystal Angel | Holiday Magic Angel Ornament"
+    },
+    {
+      "id": "a00e",
+      "title": "Crystal Guardian Angel",
+      "price": "899",
+      "image": "https://m.media-amazon.com/images/I/71WpXtCdPjL.jpg",
+      "category": "crystalangel",
+      "description": "Crystal Guardian Angel Figurine Art Glass "
+    },
+    {
+      "id": "b5d1",
+      "title": "Crystal Angel  ",
+      "price": "898",
+      "image": "https://m.media-amazon.com/images/I/712XZkURRML._AC_UF1000,1000_QL80_.jpg",
+      "category": "crystalangel",
+      "description": "Crystal Angel "
+    },
+    {
+      "id": "3ea4",
+      "title": "Pyrite Stone Crystal Cluster",
+      "price": "796",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQuBDv4aKwZy_opVIS0lOliDCrOp0XsR-arZdGTkudqfffqCrVFO49_uQzgq-INFR0QO6myajobdnSsXPE5wb61F4Gr7Ovf4mB-LL4Vpt-BF3BT5fZ8N4D9A",
+      "category": "pyritestone",
+      "description": "Pyrite Stone Crystal Cluster"
+    },
+    {
+      "id": "0055",
+      "title": "Pyrite Stone Original Cluster Samples",
+      "price": "899",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQu6Vr-OoB9sWIj_13RYhim2hiFcUaLrNkAYPd83uUWGbPVMVWv3ZCT1Gl67sEgLHDhglEJMveWL2ZTrIjGuJcr5sf9kNl_XpxZUCc3nb0",
+      "category": "pyritestone",
+      "description": "Pyrite Stone Original Cluster Samples"
+    },
+    {
+      "id": "7b5f",
+      "title": "fengshuisale Natural Pyrite Healing Crystal Stone",
+      "price": "399",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7T0QR-RB0eHdCHtILtOn0sDw-K50yCeEcyqw2zG70eWvUJOnBf9EM_zlsc-GVAKUVLvd-2-mHu_0bYDEITqwR_of2xMrOqfTq5nuyyqM",
+      "category": "pyritestone",
+      "description": "fengshuisale Natural Pyrite Healing Crystal Stone"
     }
   ]
 }

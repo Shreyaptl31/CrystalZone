@@ -95,6 +95,7 @@ const AddProduct = () => {
                                     <option value="bottle">Bottle</option>
                                     <option value="roller">Face Roller</option>
                                     <option value="lamp">Salt Lamp</option>
+                                    <option value="pyritestone">Pyrite Stone</option>
                                     <option value="zibucoin">Zibu Coin</option>
                                     <option value="crystalangel">Crystal Angel</option>
                                 </Form.Select>

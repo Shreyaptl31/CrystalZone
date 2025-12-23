@@ -16,7 +16,7 @@ const categories = [
     { name: "Crystal Bottle", slug: "bottle" },
     { name: "Face Roller", slug: "roller" },
     { name: "Salt Lamp", slug: "lamp" },
-    { name: "Pyrite Stone", slug: "Pyritestone" },
+    { name: "Pyrite Stone", slug: "pyritestone" },
     { name: "Zibu Coin", slug: "zibucoin" },
     { name: "Crystal Angel", slug: "crystalangel" },
 ];

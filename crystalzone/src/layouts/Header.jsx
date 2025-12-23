@@ -53,7 +53,7 @@ const Header = () => {
                             <NavDropdown.Item as={Link} to="/products/bottle">Crystal Bottle</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/products/roller">Crystal Face Roller</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/products/lamp">Himalayan Salt Lamp</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/products/Pyritestone">Pyrite Stone</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/products/pyritestone">Pyrite Stone</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/products/zibucoin">Zibu Coin</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/products/crystalangel">Crystal Angel</NavDropdown.Item>
                         </NavDropdown>
