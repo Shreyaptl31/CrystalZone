@@ -26,7 +26,7 @@ const Payment = () => {
     if (subtotal > 3499) {
         discount = Math.round((subtotal + tax) * 0.2); // 20% discount
         delivery = 0; // free delivery
-        message = "Enjoy free delivery and a 20% discount on all orders over ₹3000!";
+        message = "Enjoy free delivery and a 20% discount on all orders over ₹3499!";
     } else if (subtotal + tax + delivery > 2000) {
         discount = Math.round((subtotal + tax) * 0.1); // 10% discount
         delivery = 0; // free delivery
